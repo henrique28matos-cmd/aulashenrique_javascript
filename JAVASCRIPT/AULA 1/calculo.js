@@ -10,11 +10,12 @@ document.addEventListener("DOMContentLoaded", function () {
         var multiplicacao = numero1 * numero2;
         var divisao = numero1 / numero2;
 
-        console.log("soma " + soma);
+       
         console.log("subtracao " + subtracao);
         console.log("multiplicacao " + multiplicacao);
         console.log("divisao " + divisao);
-
+        console.log("alert");
+        console.log("ola");
     })
 
 
